@@ -6,7 +6,7 @@
 .body{
   padding: auto;
 }
-.footer {
+#ft{
   position: relative;
   bottom: 1;
   width: 100%;
