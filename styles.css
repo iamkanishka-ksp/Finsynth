@@ -6,6 +6,9 @@
 .body{
   padding: auto;
 }
+#ttl{
+  font-size: 42px;
+}
 #ft{
   position: relative;
   bottom: 1;
